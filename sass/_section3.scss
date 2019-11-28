@@ -1,0 +1,53 @@
+.section3{
+		background-color: #f8f7fa;
+		padding-bottom: 8.8rem;
+}
+.list__block{
+	align-items:center;
+	display: flex;
+		p{
+			font-family: Arial, Helvetica, sans-serif;
+			padding-top: 4.8rem;
+			font-size: 1.8rem;
+			line-height: 2.8rem;
+			letter-spacing: 0;
+			color:#7a7a7a;
+		}
+}
+.number__list{
+	top:1.7rem;
+	position: relative;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	padding-right: 4.6rem;
+	display: block;
+	color:#a33ba3;
+	font-size: 4rem;
+
+}
+.note-block{
+	margin-bottom:2.4rem;
+	margin-top:4.8rem;
+	background-color: #e9e9e9;
+}
+.text__note-block{
+	color:#7a7a7a;
+	border-left:2px solid #a33ba3;
+	padding:2.4rem 2.6rem 2.4rem 8rem;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.4rem;
+	line-height: 2rem;
+		span{
+			font-weight: bold;;
+		}
+}
+.wrapper__form2{
+	justify-content: space-around;
+	align-items:center;
+	display: flex;
+    padding: 4rem 0 4rem 0;
+    margin-top:5.6rem;
+    border-radius: 7px;
+		background-image: url('../img/coverFinalBgrnd.jpg');
+		box-shadow: none!important;
+}

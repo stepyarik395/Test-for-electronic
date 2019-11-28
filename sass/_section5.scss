@@ -1,0 +1,127 @@
+.section5{
+    background-color: #f8f7fa;
+}
+.list__of__benefits{
+	margin-left:2rem;
+	margin-top:2.4rem;
+	li{
+		margin-top:1rem;
+		font-size: 2rem;
+		color:#a33ba3;
+		span{
+		font-size: 1.8rem;
+    letter-spacing: 0;
+		line-height: 2.8rem;
+		font-family: Arial, Helvetica, sans-serif;
+		color:#7a7a7a;
+
+		}
+	}		
+}
+
+.list__of__cons{
+	margin-left:2rem;
+	margin-top:2.4rem;
+	li{
+		margin-top:1rem;
+		font-size: 2rem;
+		color:#a33ba3;
+		span{
+			font-size: 1.8rem;
+			letter-spacing: 0;
+			line-height: 2.8rem;
+			font-family: Arial, Helvetica, sans-serif;
+			color:#7a7a7a;
+
+		}
+	}
+
+}
+.list__arcticles{
+	margin-left:2rem;
+	margin-top:2.4rem;
+	li{
+		margin-top:1rem;
+		font-size: 2rem;
+		span{
+			font-weight: 600;
+			font-size: 1.8rem;
+			letter-spacing: 0;
+			line-height: 2.8rem;
+			font-family: Arial, Helvetica, sans-serif;
+			color:#a33ba3;
+		}
+	}
+}
+.bcg__image__section5{
+	padding-left:8.4rem;
+	padding-right:8.4rem;
+	height: 422px;
+	border-radius: 6px;
+	background:url('../img/coverFinalBgrnd.jpg')no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.main__section5{
+	overflow: hidden;
+	padding-top:10rem;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+.container__form3{
+	position: relative;
+	top:7rem;
+
+}
+#disqus_thread{
+	width:770px;
+}
+.wrapper__widget{
+	margin-top:4rem;
+	display: flex;
+	justify-content:center;
+}
+.right__content__custom{
+	padding-top:13.2rem;
+	display: flex;
+	justify-content: center;
+
+		a{
+			width: 100px; height: 20px;
+			background: url('../img/css_sprites.png') no-repeat 35px -5px;
+			text-decoration: none;
+			margin-left:1rem;
+			display: block;
+			font-size: 1.4rem;
+			line-height: 2.4rem;
+			letter-spacing: 0;
+			color:#fff;
+				&:hover{
+					color:#fff;
+				}
+        }
+        span{
+            opacity: .5;
+            color:#fff;
+            font-size: 1.6rem;
+            line-height: 2.4rem;
+            letter-spacing: 0;
+        }
+
+
+}
+.form_user{
+	width:770px;
+	justify-content: space-around;
+	align-items:center;
+	display: flex;
+    padding: 4rem 0 4rem 0;
+    border-radius: 7px;
+    background-color: #f8f7fa;
+    box-shadow: 0 20px 30px 0 rgba(85, 56, 152, 0.79);
+
+}
+.custom__margin__top{
+	margin-top:13rem;
+}
