@@ -1,6 +1,6 @@
 *{
-    margin:0;
-		padding:0;
+	margin:0;
+	padding:0;
 }
 .img-settings{
 	max-width: 100%;
@@ -19,14 +19,14 @@
 	src: url("../fonts/PingFang SC Semibold.woff"); }
 
 html{
-    font-size: 10px;
+  font-size: 10px;
 }
 .global-container{
-    max-width:1280px;
+  max-width:1280px;
 }
 .global-wrapper{
-    display:flex;
-    justify-content:center;
+  display:flex;
+  justify-content:center;
 }
 header{
 	height: 64px;
@@ -35,20 +35,20 @@ header{
 	border-right:1px solid gray;
 }
 nav{
-    a{
-				
-				padding:1rem;
-				font-family: Arial, Helvetica, sans-serif;
-				font-weight: medium;
-        font-size: 2rem;
-        line-height: 2.4rem;
-				color:#a33ba3;
-				&:hover{
-					border-radius: 6px;
-					background-color: #f8f7fa;
-					text-decoration: none;
-				}
-    }
+  a{	
+		padding:1rem;
+		font-family: Arial, Helvetica, sans-serif;
+		font-weight: medium;
+    font-size: 2rem;
+    line-height: 2.4rem;
+		color:#a33ba3;
+		
+		&:hover{
+			border-radius: 6px;
+			background-color: #f8f7fa;
+			text-decoration: none;
+		}
+  }
 }
 .logo-name{
 	font-family: 'PingFang SC Medium';
@@ -90,9 +90,6 @@ nav{
 .desktop__header__content:nth-child(2){
 	margin-right: 10px;
 }
-
-
-
 .search-in{
 	font-family: 'PingFang SC Regular';
 	padding-left:1.2rem;
@@ -166,10 +163,8 @@ nav{
 		font-size: 1.3rem;
 		line-height: 2rem;
 	}
-
 }
 #enq{
-	
 	line-height: 2.4rem;
 	font-size: 1.6rem;
 }
@@ -194,9 +189,8 @@ nav{
 		outline: none;
 		border: 1px solid #b8b8b8;
 		color:#a3a3a3;
-	width: 224px;
-  height: 40px;
-
+		width: 224px;
+  	height: 40px;
 	}
 	button{
 		right:7px;
